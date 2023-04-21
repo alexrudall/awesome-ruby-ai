@@ -6,7 +6,7 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 
 ### API Libraries
 
-- [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️
+- [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 
 ### Composability Frameworks
 
@@ -16,4 +16,4 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 
 ### Prompt Engineering
 
-- [Promptheart](https://promptheart.com/) - Prompt engineering for ChatGPT
+- [Promptheart](https://promptheart.com/) - Prompt engineering for ChatGPT.
