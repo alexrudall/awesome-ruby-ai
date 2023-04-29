@@ -12,9 +12,14 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 - [weaviate-ruby](https://github.com/andreibondarev/weaviate-ruby) — API wrapper for the Weaviate vector search database.
 
+### Bot Platforms
+
+- [MagmaChat](https://github.com/magma-labs/magma-chat) - Host your own custom and extensible ChatGPT-based bot platform, written in Rails 7. Tons of cool features.
+
 ### Composability Frameworks
 
 - [Boxcars](https://github.com/BoxcarsAI/boxcars) - Build applications with composability and LLMs.
+
 
 ## SAAS / Prototypes
 
