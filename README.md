@@ -20,6 +20,9 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 
 - [Boxcars](https://github.com/BoxcarsAI/boxcars) - Build applications with composability and LLMs.
 
+### i18n
+
+- [instant18n](https://github.com/obie/instant18n) - Fast and magical localization of your app with GPT backend. 
 
 ## SAAS / Prototypes
 
