@@ -19,6 +19,7 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 ### Composability Frameworks
 
 - [Boxcars](https://github.com/BoxcarsAI/boxcars) - Build applications with composability and LLMs.
+- [LangChain.rb](https://github.com/andreibondarev/langchainrb) - Build ML/AI-supercharged applications with Ruby's LangChain
 
 ### i18n
 
