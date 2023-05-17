@@ -24,9 +24,3 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 ### i18n
 
 - [instant18n](https://github.com/obie/instant18n) - Fast and magical localization of your app with GPT backend. 
-
-## SAAS / Prototypes
-
-### Prompt Engineering
-
-- [Promptheart](https://promptheart.com/) - Prompt engineering for ChatGPT.
