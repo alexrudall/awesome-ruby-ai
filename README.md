@@ -6,7 +6,7 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 
 ### API Libraries
 
-- [anthropic](https://github.com/alexrudall/anthropic) - Anthropic API + Ruby! (WIP)
+- [anthropic](https://github.com/alexrudall/anthropic) - Anthropic API + Ruby!
 - [cohere-ruby](https://github.com/andreibondarev/cohere-ruby) - Cohere API client for Ruby
 - [milvus](https://github.com/andreibondarev/milvus) — API wrapper for the Milvus vector search database.
 - [qdrant-ruby](https://github.com/andreibondarev/qdrant-ruby) — API wrapper for the Qdrant vector search database.
