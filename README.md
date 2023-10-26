@@ -7,13 +7,17 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 ### API Libraries
 
 - [anthropic](https://github.com/alexrudall/anthropic) - Anthropic API + Ruby!
-- [chroma](https://github.com/mariochavez/chroma) - API wrapper for the Chroma vector search database.
 - [cohere-ruby](https://github.com/andreibondarev/cohere-ruby) - Cohere API client for Ruby
 - [llm client](https://github.com/mariochavez/llm_client) - LLM Server API client for Ruby. 
 - [midjourney](https://github.com/alexrudall/midjourney) - Midjourney API (via SlashImagine for now) + Ruby!
+- [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+
+#### Vector Database Clients
+
+- [chroma](https://github.com/mariochavez/chroma) - API wrapper for the Chroma vector search database.
+- [pinecone](https://github.com/scotterc/pinecone) - API wrapper for Pinecone vector search database.
 - [milvus](https://github.com/andreibondarev/milvus) — API wrapper for the Milvus vector search database.
 - [qdrant-ruby](https://github.com/andreibondarev/qdrant-ruby) — API wrapper for the Qdrant vector search database.
-- [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 - [weaviate-ruby](https://github.com/andreibondarev/weaviate-ruby) — API wrapper for the Weaviate vector search database.
 
 ### Bot Platforms
