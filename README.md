@@ -11,6 +11,7 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [llm client](https://github.com/mariochavez/llm_client) - LLM Server API client for Ruby. 
 - [midjourney](https://github.com/alexrudall/midjourney) - Midjourney API (via SlashImagine for now) + Ruby!
 - [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+- [superagi](https://github.com/alexrudall/superagi) - SuperAGI + Ruby
 
 #### Vector Database Clients
 
