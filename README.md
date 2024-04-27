@@ -32,6 +32,7 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [Aoororachain](https://github.com/mariochavez/aoororachain) - An opinionated library to build AI application with Ruby and open-source LLMs.
 - [Boxcars](https://github.com/BoxcarsAI/boxcars) - Build applications with composability and LLMs.
 - [LangChain.rb](https://github.com/andreibondarev/langchainrb) - Build ML/AI-supercharged applications with Ruby's LangChain
+- [raix-rails(https://github.com/OlympiaAI/raix-rails) - Ruby AI eXtensions for Rails
 
 ### i18n
 
