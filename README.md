@@ -8,6 +8,7 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 
 - [anthropic](https://github.com/alexrudall/anthropic) - Anthropic API + Ruby!
 - [cohere-ruby](https://github.com/andreibondarev/cohere-ruby) - Cohere API client for Ruby
+- [groq-ruby](https://github.com/drnic/groq-ruby) - Groq API client for Ruby
 - [llm client](https://github.com/mariochavez/llm_client) - LLM Server API client for Ruby. 
 - [midjourney](https://github.com/alexrudall/midjourney) - Midjourney API (via SlashImagine for now) + Ruby!
 - [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
