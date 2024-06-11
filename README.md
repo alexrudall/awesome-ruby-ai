@@ -43,7 +43,8 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 
 ### Community
 
-- [Ruby AI Builders](https://discord.gg/ruby-ai-builders-1081742403460923484) - The world's biggest and best Ruby AI community!
+- [Ruby AI](https://x.com/i/communities/1709211359039078677) - For folks interested in learning about and building AI applications in Ruby, on X.com!
+- [Ruby AI Builders](https://discord.gg/ruby-ai-builders-1081742403460923484) - The world's biggest Ruby AI community, on Discord!
 
 ### i18n
 
