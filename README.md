@@ -29,12 +29,21 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [MagmaChat](https://github.com/magma-labs/magma-chat) - Host your own custom and extensible ChatGPT-based bot platform, written in Rails 7. Tons of cool features.
 - [Monadic Chat](https://github.com/yohasebe/monadic-chat) - A highly configurable Ruby framework for creating intelligent chatbots.
 
+### Books
+
+- [Patterns of Application Development using AI](https://leanpub.com/patterns-of-application-development-using-ai) - Unlock the power of AI in your applications.
+- [RailsAI](https://railsai.com) - Free book - ship your RailsAI MVP fast!
+
 ### Composability Frameworks
 
 - [Aoororachain](https://github.com/mariochavez/aoororachain) - An opinionated library to build AI application with Ruby and open-source LLMs.
 - [Boxcars](https://github.com/BoxcarsAI/boxcars) - Build applications with composability and LLMs.
 - [LangChain.rb](https://github.com/andreibondarev/langchainrb) - Build ML/AI-supercharged applications with Ruby's LangChain
 - [raix-rails](https://github.com/OlympiaAI/raix-rails) - Ruby AI eXtensions for Rails
+
+### Community
+
+- [Ruby AI Builders](https://discord.gg/ruby-ai-builders-1081742403460923484) - The world's biggest and best Ruby AI community!
 
 ### i18n
 
