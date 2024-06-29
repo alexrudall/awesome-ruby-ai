@@ -32,11 +32,12 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 
 ### Books
 
-- [Patterns of Application Development using AI](https://leanpub.com/patterns-of-application-development-using-ai) - Unlock the power of AI in your applications.
-- [RailsAI](https://railsai.com) - Free book - ship your RailsAI MVP fast!
+- [Patterns of Application Development using AI ($)](https://leanpub.com/patterns-of-application-development-using-ai) - Unlock the power of AI in your applications.
+- [RailsAI](https://railsai.com) - Free book - ship your Rails AI MVP fast!
 
-### Composability Frameworks
+### Frameworks
 
+- [AI::Engine ($)](https://insertrobot.com/) - Add OpenAI&reg; Assistants to your Rails app in minutes, not days.
 - [Aoororachain](https://github.com/mariochavez/aoororachain) - An opinionated library to build AI application with Ruby and open-source LLMs.
 - [Boxcars](https://github.com/BoxcarsAI/boxcars) - Build applications with composability and LLMs.
 - [LangChain.rb](https://github.com/andreibondarev/langchainrb) - Build ML/AI-supercharged applications with Ruby's LangChain
