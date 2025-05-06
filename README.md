@@ -9,7 +9,7 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [anthropic](https://github.com/alexrudall/anthropic) - Anthropic API + Ruby!
 - [cohere-ruby](https://github.com/andreibondarev/cohere-ruby) - Cohere API client for Ruby
 - [groq-ruby](https://github.com/drnic/groq-ruby) - Groq API client for Ruby
-- [llm client](https://github.com/mariochavez/llm_client) - LLM Server API client for Ruby. 
+- [llm client](https://github.com/mariochavez/llm_client) - LLM Server API client for Ruby.
 - [midjourney](https://github.com/alexrudall/midjourney) - Midjourney API (via SlashImagine for now) + Ruby!
 - [mistral](https://github.com/wilsonsilva/mistral) - Mistral API client for Ruby
 - [open_router](https://github.com/OlympiaAI/open_router) - Ruby library for OpenRouter API
@@ -42,14 +42,15 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [Boxcars](https://github.com/BoxcarsAI/boxcars) - Build applications with composability and LLMs.
 - [LangChain.rb](https://github.com/andreibondarev/langchainrb) - Build ML/AI-supercharged applications with Ruby's LangChain
 - [raix-rails](https://github.com/OlympiaAI/raix-rails) - Ruby AI eXtensions for Rails
-- [ruby-openai-swarm](http://github.com/graysonchen/ruby-openai-swarm) Lightweight multi-agent orchestration, adapted from OpenAI’s Swarm. 
+- [ruby-openai-swarm](http://github.com/graysonchen/ruby-openai-swarm) Lightweight multi-agent orchestration, adapted from OpenAI’s Swarm.
 - [activeagent](https://github.com/activeagents/activeagent) Create agents that take instructions, prompts, and perform actions
 
 ### Community
 
+- [Artificial Ruby](https://www.artificialruby.ai/) - A aommunity of Rubyists who meet regularly in NYC to explore novel approaches to AI development using Ruby.
 - [Ruby AI](https://x.com/i/communities/1709211359039078677) - For folks interested in learning about and building AI applications in Ruby, on X.com!
 - [Ruby AI Builders](https://discord.com/servers/ruby-ai-builders-1081742403460923484) - The world's biggest Ruby AI community, on Discord!
 
 ### i18n
 
-- [instant18n](https://github.com/obie/instant18n) - Fast and magical localization of your app with GPT backend. 
+- [instant18n](https://github.com/obie/instant18n) - Fast and magical localization of your app with GPT backend.
