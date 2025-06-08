@@ -19,8 +19,8 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 #### Vector Database Clients
 
 - [chroma](https://github.com/mariochavez/chroma) - API wrapper for the Chroma vector search database.
-- [pinecone](https://github.com/scotterc/pinecone) - API wrapper for Pinecone vector search database.
 - [milvus](https://github.com/andreibondarev/milvus) — API wrapper for the Milvus vector search database.
+- [pinecone](https://github.com/scotterc/pinecone) - API wrapper for Pinecone vector search database.
 - [qdrant-ruby](https://github.com/andreibondarev/qdrant-ruby) — API wrapper for the Qdrant vector search database.
 - [weaviate-ruby](https://github.com/andreibondarev/weaviate-ruby) — API wrapper for the Weaviate vector search database.
 
@@ -44,18 +44,18 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 
 ### Videos
 
-- [thoughtbot - AI in Focus](https://www.youtube.com/playlist?list=PL8tzorAO7s0jaDFZYPAtR_AIHgD5J3a7d) (playlist)
 - [AI on Rails](https://www.youtube.com/@AIonRails-v9s) (channel)
+- [thoughtbot - AI in Focus](https://www.youtube.com/playlist?list=PL8tzorAO7s0jaDFZYPAtR_AIHgD5J3a7d) (playlist)
 
 ### Frameworks
 
+- [activeagent](https://github.com/activeagents/activeagent) Create agents that take instructions, prompts, and perform actions
 - [AI::Engine ($)](https://insertrobot.com/) - Add OpenAI&reg; Assistants to your Rails app in minutes, not days.
 - [Aoororachain](https://github.com/mariochavez/aoororachain) - An opinionated library to build AI application with Ruby and open-source LLMs.
 - [Boxcars](https://github.com/BoxcarsAI/boxcars) - Build applications with composability and LLMs.
 - [LangChain.rb](https://github.com/andreibondarev/langchainrb) - Build ML/AI-supercharged applications with Ruby's LangChain
 - [raix](https://github.com/OlympiaAI/raix) - Ruby AI eXtensions
-- [ruby-openai-swarm](http://github.com/graysonchen/ruby-openai-swarm) Lightweight multi-agent orchestration, adapted from OpenAI’s Swarm.
-- [activeagent](https://github.com/activeagents/activeagent) Create agents that take instructions, prompts, and perform actions
+- [ruby-openai-swarm](http://github.com/graysonchen/ruby-openai-swarm) Lightweight multi-agent orchestration, adapted from OpenAI's Swarm.
 
 ### Newsletters
 
