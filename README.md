@@ -42,6 +42,11 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [Patterns of Application Development using AI ($)](https://leanpub.com/patterns-of-application-development-using-ai) - Unlock the power of AI in your applications.
 - [RailsAI](https://railsai.com) - Free book - ship your Rails AI MVP fast!
 
+### Videos
+
+- [thoughtbot - AI in Focus](https://www.youtube.com/playlist?list=PL8tzorAO7s0jaDFZYPAtR_AIHgD5J3a7d) (playlist)
+- [AI on Rails](https://www.youtube.com/@AIonRails-v9s) (channel)
+
 ### Frameworks
 
 - [AI::Engine ($)](https://insertrobot.com/) - Add OpenAI&reg; Assistants to your Rails app in minutes, not days.
