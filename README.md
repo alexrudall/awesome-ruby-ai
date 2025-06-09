@@ -57,6 +57,10 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [raix](https://github.com/OlympiaAI/raix) - Ruby AI eXtensions
 - [ruby-openai-swarm](http://github.com/graysonchen/ruby-openai-swarm) Lightweight multi-agent orchestration, adapted from OpenAI's Swarm.
 
+### Evaluation
+
+- [leva](https://github.com/kieranklaassen/leva) - LLM Evaluation Framework for Rails apps to be used with production data.
+
 ### Newsletters
 
 - [RoboRubyAI](https://rubyai.beehiiv.com) Ruby AI News
