@@ -56,6 +56,7 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [LangChain.rb](https://github.com/andreibondarev/langchainrb) - Build ML/AI-supercharged applications with Ruby's LangChain
 - [raix](https://github.com/OlympiaAI/raix) - Ruby AI eXtensions
 - [ruby-openai-swarm](http://github.com/graysonchen/ruby-openai-swarm) Lightweight multi-agent orchestration, adapted from OpenAI's Swarm.
+- [sublayer](https://github.com/sublayerapp/sublayer) - A model-agnostic Ruby Generative AI DSL and framework. Provides base classes for building Generators, Actions, Tasks, and Agents that can be used to build AI powered applications in Ruby.
 
 ### Newsletters
 
