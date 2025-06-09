@@ -12,6 +12,7 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [llm client](https://github.com/mariochavez/llm_client) - LLM Server API client for Ruby.
 - [midjourney](https://github.com/alexrudall/midjourney) - Midjourney API (via SlashImagine for now) + Ruby!
 - [mistral](https://github.com/wilsonsilva/mistral) - Mistral API client for Ruby
+- [omniai](https://github.com/ksylvest/omniai) - OmniAI standardizes the APIs for multiple AI providers like OpenAI's Chat GPT, Mistral's LeChat, Claude's Anthropic, Google's Gemini and DeepSeek's Chat..
 - [open_router](https://github.com/OlympiaAI/open_router) - Ruby library for OpenRouter API
 - [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 - [superagi](https://github.com/alexrudall/superagi) - SuperAGI + Ruby
