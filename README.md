@@ -47,6 +47,10 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [AI on Rails](https://www.youtube.com/@AIonRails-v9s) (channel)
 - [thoughtbot - AI in Focus](https://www.youtube.com/playlist?list=PL8tzorAO7s0jaDFZYPAtR_AIHgD5J3a7d) (playlist)
 
+### Audio
+
+- [The Magic of RubyLLM with Carmine Paolino](https://topenddevs.com/podcasts/ruby-rogues/episodes/the-magic-of-rubyllm-with-carmine-paolino-ruby-676) (Ruby Rogues)
+
 ### Frameworks
 
 - [activeagent](https://github.com/activeagents/activeagent) Create agents that take instructions, prompts, and perform actions
