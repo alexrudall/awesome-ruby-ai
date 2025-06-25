@@ -26,6 +26,7 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 
 ### Bot Platforms
 
+- [HostedGPT](https://github.com/AllYourBot/hostedgpt) - An open version of ChatGPT you can host anywhere or run locally. Written in Rails 7.
 - [LLM Server](https://github.com/mariochavez/llm_server) - Host open-source Large Language Model with llama.cpp, an have a private AI server. This server is a Rack API.
 - [MagmaChat](https://github.com/magma-labs/magma-chat) - Host your own custom and extensible ChatGPT-based bot platform, written in Rails 7. Tons of cool features.
 - [Monadic Chat](https://github.com/yohasebe/monadic-chat) - A highly configurable Ruby framework for creating intelligent chatbots.
