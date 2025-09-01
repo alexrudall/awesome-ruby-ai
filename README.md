@@ -15,6 +15,7 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [omniai](https://github.com/ksylvest/omniai) - OmniAI standardizes the APIs for multiple AI providers like OpenAI's Chat GPT, Mistral's LeChat, Claude's Anthropic, Google's Gemini and DeepSeek's Chat..
 - [open_router](https://github.com/OlympiaAI/open_router) - Ruby library for OpenRouter API
 - [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+- [ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby API for GPT, Claude, Gemini, and more.
 - [superagi](https://github.com/alexrudall/superagi) - SuperAGI + Ruby
 
 #### Vector Database Clients
