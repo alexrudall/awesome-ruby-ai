@@ -39,6 +39,7 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [mcp](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for Model Context Protocol servers and clients
 - [rails-mcp-server](https://github.com/maquina-app/rails-mcp-server)
 - [tidewave_rails](https://github.com/tidewave-ai/tidewave_rails)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agent wallets on Solana. Verify agent identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ### Books
 
