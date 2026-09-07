@@ -60,6 +60,7 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [AI::Engine ($)](https://insertrobot.com/) - Add OpenAI&reg; Assistants to your Rails app in minutes, not days.
 - [Aoororachain](https://github.com/mariochavez/aoororachain) - An opinionated library to build AI application with Ruby and open-source LLMs.
 - [Boxcars](https://github.com/BoxcarsAI/boxcars) - Build applications with composability and LLMs.
+- [claude-agent-sdk](https://github.com/ya-luotao/claude-agent-sdk-ruby) - Unofficial Ruby SDK for the Claude Agent runtime (Claude Code): one-shot and bidirectional sessions, in-process MCP tools, hooks, and Rails integration.
 - [LangChain.rb](https://github.com/andreibondarev/langchainrb) - Build ML/AI-supercharged applications with Ruby's LangChain
 - [raix](https://github.com/OlympiaAI/raix) - Ruby AI eXtensions
 - [ruby-openai-swarm](http://github.com/graysonchen/ruby-openai-swarm) Lightweight multi-agent orchestration, adapted from OpenAI's Swarm.
