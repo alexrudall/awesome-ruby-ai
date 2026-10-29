@@ -66,6 +66,10 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [ruby-openai-swarm](http://github.com/graysonchen/ruby-openai-swarm) Lightweight multi-agent orchestration, adapted from OpenAI's Swarm.
 - [sublayer](https://github.com/sublayerapp/sublayer) - A model-agnostic Ruby Generative AI DSL and framework. Provides base classes for building Generators, Actions, Tasks, and Agents that can be used to build AI powered applications in Ruby.
 
+### Document Loaders
+
+- [readword](https://github.com/urbullet/readword) - Turns Word .doc and .docx files into Markdown for LLMs and coding agents, in plain Ruby.
+
 ### Evaluation
 
 - [leva](https://github.com/kieranklaassen/leva) - LLM Evaluation Framework for Rails apps to be used with production data.
